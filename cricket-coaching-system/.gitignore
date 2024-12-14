@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variable files
+.env
+
+# macOS system files
+.DS_Store
+
+# Build output directories
+dist/
+build/
+
+# Log files
+*.log
+
+# Other files you want to exclude
+*.bak
+*.swp
+*.tmp
